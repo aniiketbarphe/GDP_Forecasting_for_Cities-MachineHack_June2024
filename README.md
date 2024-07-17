@@ -38,7 +38,7 @@ Submission Limits
 The hackathon has a submission limit of 9 per day, after which the submissions will not be considered or evaluated.
 All registered users are eligible to participate in the hackathon. We ask that you respect the spirit of the competition and do not cheat.
 
-The evaluation will be done based on the metric "mean squared error" between the submission file and solution.
+The hackathon evaluation will be done over the metric: Mean Absolute Percentage Error between the submitted and actual file.
 
 
 ![image](https://github.com/user-attachments/assets/03a92919-691f-41ae-91a9-def4e8f98a05)
